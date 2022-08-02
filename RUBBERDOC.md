@@ -1,6 +1,6 @@
 # Rubber Doc
 
-<img src="https://media.istockphoto.com/vectors/yellow-duck-icon-vector-id1127302688?k=20&m=1127302688&s=612x612&w=0&h=r_xH78JAJ8XBwKWriHZSKWUB7qgk2g4MDSz8ewPTRGY=" alt="Rubber Duck" width="150px">
+<img src="https://images.unsplash.com/photo-1620447789324-fd300c136721?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cnViYmVyJTIwZHVja3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="Rubber Duck" width="250px">
 
 A document to rubber duck debug. Fill this out as you go through debugging. Ask as many questions as you need to. No question is dumb. Be as detailed as possible for the magic to happen. Add this doc to the code that is not doing what you want it to do instead of what you're telling it to do.
 
