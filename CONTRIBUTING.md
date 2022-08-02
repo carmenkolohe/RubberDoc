@@ -1,6 +1,6 @@
 # Contributing! 🥳
 
-Thank you so much for wanting to help improve this doc! 🦆
+Thank you so much for wanting to help grow and improve this doc! 🦆
 
 Please follow the instructions below to get yourself set up. Please post any questions, issues or ideas in GitHub.
 
@@ -10,20 +10,16 @@ Please follow the instructions below to get yourself set up. Please post any que
 
 <hr/>
 
-## 🤝 Ready friends?
-
-<hr/>
-
 - Fork this repo
 - Click on the <span style="background-color:green;color:white;padding:5px;border-radius:5px">Code</span> button and copy the repo URL
 - Clone the repo into the directory you would like to have the repository
 - Open in text editor to view code and make changes
 
-## How can I help? 🤨
+## 🤨 How can I help?
 
 Post in the issues section and let's figure it out together! (For example, this doc probably needs some more love and attention)
 
-## Submitting a PR 🙌
+## 🙌 Submitting a PR
 
 <hr/>
 
